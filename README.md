@@ -1,3 +1,37 @@
+<div align="center">
+
+# 💰 Controle de Gastos
+
+Sistema de gerenciamento de pessoas e transações financeiras desenvolvido como teste técnico.
+
+## 🎥 Demonstração
+
+[![YouTube](https://img.shields.io/badge/▶%20Assistir%20Demonstração-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/hhh165PzVO0)
+
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluentValidation-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Moq-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FluentAssertions-009688?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=swagger&logoColor=white" />
+</p>
+
+</div>
+
 # Controle de Gastos
 
 Sistema de gerenciamento de pessoas e transações financeiras (receitas/despesas).
